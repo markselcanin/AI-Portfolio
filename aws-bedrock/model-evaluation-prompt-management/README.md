@@ -384,13 +384,11 @@ Reading about foundation models is different from directly observing how multipl
 
 # Screenshots
 
-Recommended project screenshots:
-
 ```text
-model-evaluation-prompt-management/bedrock-workflow-diagram.png
-model-evaluation-prompt-management/model-configuration.png
-model-evaluation-prompt-management/prompt-version.png
-model-evaluation-prompt-management/system-instructions.png
+bedrock-workflow-diagram.png
+model-configuration.png
+prompt-version.png
+system-instructions.png
 ```
 
 ---
