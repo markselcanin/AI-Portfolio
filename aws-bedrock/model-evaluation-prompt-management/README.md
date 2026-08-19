@@ -387,10 +387,10 @@ Reading about foundation models is different from directly observing how multipl
 Recommended project screenshots:
 
 ```text
-/images/model-comparison.png
-/images/product-description-prompt.png
-/images/prompt-version.png
 /images/bedrock-workflow-diagram.png
+/images/model-configuration.png
+/images/prompt-version.png
+/images/system-instructions.png
 ```
 
 Suggested screenshots include:
