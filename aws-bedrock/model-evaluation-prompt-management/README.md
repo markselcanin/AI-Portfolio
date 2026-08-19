@@ -387,20 +387,11 @@ Reading about foundation models is different from directly observing how multipl
 Recommended project screenshots:
 
 ```text
-/images/bedrock-workflow-diagram.png
-/images/model-configuration.png
-/images/prompt-version.png
-/images/system-instructions.png
+model-evaluation-prompt-management/bedrock-workflow-diagram.png
+model-evaluation-prompt-management/model-configuration.png
+model-evaluation-prompt-management/prompt-version.png
+model-evaluation-prompt-management/system-instructions.png
 ```
-
-Suggested screenshots include:
-
-1. Nova 2 Lite and Llama 3 8B running in Compare Mode
-2. `ProductDescriptionWriter` with its prompt variables populated
-3. Successfully created prompt version
-4. Bedrock-generated workflow or architecture diagram
-
-> Before publishing screenshots, remove or crop AWS account identifiers, usernames, ARNs, email addresses, and other sensitive information.
 
 ---
 
